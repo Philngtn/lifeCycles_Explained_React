@@ -13,6 +13,20 @@
   }
 }
 
+button {
+  margin: 10px;
+  background-color: white;
+  color: black;
+  width: 140px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+.lifecycles {
+  margin-top: 20px;
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
