@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# The explaintation of life cycles method in the React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
